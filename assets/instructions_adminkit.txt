@@ -1,0 +1,6 @@
+Tous les fichiers css, js du template adminkit sont dans le dossier "adminkit"
+
+
+
+
+Signé AdjaWillyJunior
